@@ -54,11 +54,11 @@ plainwhite:
 # - about.md
 
 # Build settings
-theme: plainwhite
+# theme: plainwhite
 url: "https://github.com/Gyubin0302/Gyubin0302.github.io/"
 # "https://gyubin0302.github.io/"
 baseurl:
-# remote_theme: samarsault/plainwhite-jekyll
+remote_theme: samarsault/plainwhite-jekyll
 
 plugins:
   - jekyll-seo-tag
