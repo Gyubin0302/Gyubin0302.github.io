@@ -55,7 +55,8 @@ plainwhite:
 
 # Build settings
 theme: plainwhite
-url: "https://gyubin0302.github.io"
+url: "https://github.com/Gyubin0302/Gyubin0302.github.io/"
+# "https://gyubin0302.github.io/"
 baseurl:
 remote_theme: samarsault/plainwhite-jekyll
 
