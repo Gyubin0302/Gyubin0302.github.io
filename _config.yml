@@ -55,7 +55,8 @@ plainwhite:
 # Build settings
 theme: plainwhite
 url: "https://gyubin0302.github.io"
-baseurl: 
+baseurl:
+remote_theme: samarsault/plainwhite-jekyll
 
 plugins:
   - jekyll-seo-tag
